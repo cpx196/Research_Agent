@@ -1,0 +1,92 @@
+[
+  {
+    "filename": "vjepa2.pdf",
+    "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+    "zotero_key": "ASCKJ6X9",
+    "attachment_key": "YI8J2ZHT",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/YI8J2ZHT/Assran 等 - 2025 - V-JEPA 2 Self-Supervised Video Models Enable Understanding, Prediction and Planning.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "vjepa2_1.pdf",
+    "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
+    "zotero_key": "Q99NKJWX",
+    "attachment_key": "69J83LKH",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/69J83LKH/Mur-Labadia 等 - 2026 - V-JEPA 2.1 Unlocking Dense Features in Video Self-Supervised Learning.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "jepa_images.pdf",
+    "title": "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture",
+    "zotero_key": "9YBFGYYF",
+    "attachment_key": "RS66IH9W",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/RS66IH9W/Assran 等 - 2023 - Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "vla_jepa.pdf",
+    "title": "VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model",
+    "zotero_key": "7ADRMCN6",
+    "attachment_key": "WRNIBE8P",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/WRNIBE8P/Sun 等 - 2026 - VLA-JEPA Enhancing Vision-Language-Action Model with Latent World Model.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "dinov3.pdf",
+    "title": "DINOv3",
+    "zotero_key": "S6Z5CFR7",
+    "attachment_key": "BFN3D2EY",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/BFN3D2EY/Siméoni 等 - 2025 - DINOv3.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "world_action_models.pdf",
+    "title": "World Action Models: The Next Frontier in Embodied AI",
+    "zotero_key": "BNSQFQ5B",
+    "attachment_key": "DN2BHV5R",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/DN2BHV5R/Wang 等 - 2026 - World Action Models The Next Frontier in Embodied AI.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "fast_wam.pdf",
+    "title": "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",
+    "zotero_key": "SKNLL9GG",
+    "attachment_key": "NYNRWMNF",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/NYNRWMNF/Yuan et al. - 2026 - Fast-WAM Do World Action Models Need Test-time Future Imagination.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "lawam.pdf",
+    "title": "LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies",
+    "zotero_key": "82KEF9UN",
+    "attachment_key": "EG2AFG7L",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/EG2AFG7L/Chen 等 - 2026 - LaWAM Latent World Action Models for Efficient Dynamics-Aware Robot Policies.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "patch_policy.pdf",
+    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+    "zotero_key": "W77A4WTG",
+    "attachment_key": "ZGTF52NY",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/ZGTF52NY/Zhou 等 - 2026 - Patch Policy Efficient Embodied Control via Dense Visual Representations.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  },
+  {
+    "filename": "causal_world_modeling.pdf",
+    "title": "Causal World Modeling for Robot Control",
+    "zotero_key": "G5JS9G3Z",
+    "attachment_key": "YIL5JD32",
+    "collection": "UST",
+    "source_path": "/Users/ocbrain/Zotero/storage/YIL5JD32/Li et al. - 2026 - Causal World Modeling for Robot Control.pdf",
+    "database": "/Users/ocbrain/Zotero/zotero.sqlite.bak"
+  }
+]

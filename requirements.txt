@@ -1,0 +1,12 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+pymupdf>=1.24.0
+numpy>=1.26.0
+faiss-cpu>=1.8.0
+# Pinned to a stable <5 transformers stack for reproducible CPU installs.
+sentence-transformers==3.4.1
+transformers==4.46.3
+# V3 workflow orchestration; V0/V2 hand-written loop remains available.
+langgraph>=1.2.0,<2.0.0
+# Official Model Context Protocol Python SDK; V5 currently uses stdio.
+mcp>=1.0.0,<2.0.0

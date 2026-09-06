@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RESEARCH / AGENT</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div class="brand"><span class="brand-mark">RA</span><span>RESEARCH / AGENT</span></div>
+        <div class="top-meta"><span class="live-dot"></span><span id="connection-label">CONNECTING</span><span class="slash">//</span><span>LOCAL HOST</span></div>
+      </header>
+
+      <section class="workspace">
+        <section class="main-panel">
+          <div class="panel-header">
+            <div><span class="eyebrow">SESSION / INTERACTIVE RESEARCH</span><h1>Ask the machine.</h1></div>
+            <div class="panel-index">[ 001 ]</div>
+          </div>
+          <div class="conversation" id="conversation" aria-live="polite">
+            <article class="message system-message">
+              <div class="message-head"><span class="tag tag-system">SYSTEM</span><span>READY STATE</span></div>
+              <div class="message-body">Evidence-First Research Agent 在线。系统将形成结论、逐条审计 Claim，并只修补证据不足的部分。</div>
+            </article>
+          </div>
+          <form class="composer" id="composer">
+            <div class="composer-line"><span class="prompt-mark">›</span><textarea id="query" rows="2" placeholder="输入研究问题..." autocomplete="off"></textarea></div>
+            <div class="composer-footer"><span>ENTER NEWLINE <span class="muted">/</span> CLICK BUTTON TO SEND</span><button id="send" type="submit"><span>SEND QUERY</span><span class="button-arrow">→</span></button></div>
+          </form>
+        </section>
+
+        <aside class="trace-panel">
+          <section class="audit-panel" id="audit-panel">
+            <div class="trace-header"><span>CLAIM AUDIT</span><span id="audit-summary">NO CLAIMS</span></div>
+            <div class="audit-list" id="audit-list"><div class="audit-empty">完成一次深度研究后，这里会显示 Claim、支持状态和局部修补记录。</div></div>
+          </section>
+          <div class="trace-header"><span>EXECUTION TRACE</span><span class="trace-live">● LIVE</span></div>
+          <div class="trace-meta" id="trace-meta">NO RUN YET</div>
+          <pre class="trace" id="trace">// Trace output will appear here
+// Node, Tool, Evidence, Context and Verifier events</pre>
+          <div class="trace-bottom"><span id="latency">LATENCY --</span><span id="evidence">EVIDENCE --</span><span id="log-file">LOG --</span></div>
+        </aside>
+      </section>
+      <footer class="footer"><span>RESEARCH AGENT / PRIVATE LOCAL SESSION</span><span>NO GPU REQUIRED <span class="footer-mark">■</span></span></footer>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>

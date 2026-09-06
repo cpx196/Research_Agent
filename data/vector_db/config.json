@@ -1,0 +1,8 @@
+{
+  "backend": "sentence-transformers",
+  "model_name": "BAAI/bge-small-en-v1.5",
+  "device": "cpu",
+  "chunk_size": 2000,
+  "overlap": 200,
+  "embedding_dimension": 384
+}
